@@ -14,3 +14,6 @@ while (answer != x):
         answer = int(input())
         continue
 print('Отличная интуиция! Вы угадали число :)')
+
+def fumo():
+    pass
